@@ -1,0 +1,151 @@
+question - 1----<>
+
+
+1.No hacking
+2.Huge security Boost
+3.Verifiable
+4.Data Transparency
+6.decentralized
+
+Blockchain is a  system of database management , which uses to secure the data which is there , actually it means , thats not possible to hack or cheat the system.
+actually it is distributed in a vast manner , to secure the database management , its essential in lefger transactions..
+
+question - 2
+
+Distributed ledger technologies — collectively known as blockchain — have burst onto the business scene, accompanied by a significant amount of type.
+They are widely expected to disrupt existing industries and lead to the creation of new types of companies.
+Some of the excitement may indeed be warranted, but only if organizations focus on how these technologies can be used to support their strategy.
+Without that lens, companies risk making large investments in initiatives that don’t create meaningful value.
+However, with careful planning, businesses can use blockchain to gain an edge over rivals in a number of ways. 
+It can provide a foundation for powerful applications that will streamline core operations.
+Distributed ledger technologies can lower transaction costs and make intellectual property ownership and payments more transparent, seamless, and automated.
+But companies should resist jumping on the bandwagon until they first understand what specific problems they can solve with blockchain — and for whom. 
+How will it help them reach new customers? How can it improve efficiency or transparency in their supply chains? And most important, what will blockchain enable 
+them to do that competitors and new entrants can’t do? Answering these sorts of practical, targeted questions will allow businesses to cut through the hype and 
+create a blockchain strategy that makes sense for them.
+
+
+question-- 3--<>
+
+1. Cannot be Corrupted:-
+Blockchain technology works slightly different than the typical banking system. Instead of relying on centralized authorities, it ensures the blockchain features through a collection of nodes.
+Every node on the system has a copy of the digital ledger. To add a transaction every node needs to check its validity. If the majority thinks it’s valid, then it’s added to the ledger. 
+This promotes transparency and makes it corruption-proof.
+
+2. Decentralized Technology:-
+The network is decentralized meaning it doesn’t have any governing authority or a single person looking after the framework. Rather a group of nodes maintains the network
+making it decentralized.This is one of the key features of blockchain technology that works perfectly. Let me make it simpler. Blockchain puts us users in a straightforward 
+position. As the system doesn’t require any governing authority, we can directly access it from the web and store our assets there.
+You can store anything starting from cryptocurrencies, important documents.
+
+3. Enhanced Security:-
+Every information on the blockchain is hashed cryptographically. In simple terms, the information on the network hides the true nature of the data. For this process,
+any input data gets through a mathematical algorithm that produces a different kind of value, but the length is always fixed.
+
+4. Distributed Ledgers:-
+Usually, a public ledger will provide every information about a transaction and the participant. It’s all out in the open, nowhere to hide. Although the case for private or
+federated blockchain is a bit different. But still, in those cases many people can see what really goes on in the ledger.
+
+5. Consensus:-
+Every blockchain thrives because of the consensus algorithms. The architecture is cleverly designed, and consensus algorithms are at the core of this architecture.
+Every blockchain has a consensus to help the network make decisions.
+
+6. Faster Settlement
+Traditional banking systems are quite slow. Sometimes it can take days to process a transaction after finalizing all settlements. It also can be corrupted quite easily. 
+Blockchain offers a faster settlement compared to traditional banking systems. This way a user can transfer money relatively faster, which saves a lot of time in the long run.
+
+
+
+Question no.4----<>
+
+
+A Block contain--
+-Block Number
+-Transaction records
+-Pervious Block signature
+-Mining Key
+A block contains--
+-Block no 2
+-Trans Record Any Important data you want to store
+-Previous block key 0000tyhvfxgjnlklkjjhgxz
+-Mining key
+Block 1=0+B=C
+Block 2=C+D=E
+
+Blocks hold batches of valid transactions that are hashed and encoded into a Merkle tree. Each block includes the cryptographic hash of the prior block in the blockchain,
+linking the two. The linked blocks form a chain.This iterative process confirms the integrity of the previous block, all the way back to the original genesis block.
+Sometimes separate blocks can be produced concurrently, creating a temporary fork. In addition to a secure hash-based history, any blockchain has a specified algorithm for 
+scoring different versions of the history so that one with a higher score can be selected over others. Blocks not selected for inclusion in the chain are called orphan blocks.
+Peers supporting the database have different versions of the history from time to time. They keep only the highest-scoring version of the database known to them. Whenever a 
+peer receives a higher-scoring version (usually the old version with a single new block added) they extend or overwrite their own database and retransmit the improvement to 
+their peers. There is never an absolute guarantee that any particular entry will remain in the best version of the history forever. Blockchains are typically built to add the 
+score of new blocks onto old blocks and are given incentives to extend with new blocks rather than overwrite old blocks. Therefore, the probability of an entry becoming 
+superseded decreases exponentially as more blocks are built on top of it, eventually becoming very low.For example, bitcoin uses a proof-of-work system, where the chain with 
+the most cumulative proof-of-work is considered the valid one by the network. There are a number of methods that can be used to demonstrate a sufficient level of computation.
+Within a blockchain the computation is carried out redundantly rather than in the traditional segregated and parallel manner.
+
+
+
+Question no. 5:-----<>
+
+
+Blockchain technology is one of the valuable gift of technology because of its security and verification feature. Blockchain, as you might know, holds all the digital 
+information in different blocks which are linked to each other via a hash codes.
+Verification (simplified) is the process of running transactions through one way mathematical equations called hashes. When a new block is created, all of its transactions 
+are hashed (in some cases, hashed many times), producing a unique result.
+These results are verified by other nodes on the network by re-running the same mathematical equations with the same inputs and confirming that the output matches exactly. 
+If the output doesn't match what that tells the node is that the inputs don't match, either due to an error or fraud, and the transaction should be ignored.
+This process works similarly for validating single transactions as well as validating new blocks.Verification in blockchain is a consensus mechanism based process.
+Since blockchain acts as a decentralized ledger with multiple nodes in the network, the transaction must be verified by all nodes. All blockchains are continuous chains
+starting from a genesis block upto to the current block.During the process of creating a new block, the transactions are hashed and a unique output or result is created. 
+A hash function, takes input, and produces a specific output of a fixed size. It acts a digital fingerprint which cannot be modified.
+The successive block in the chain contains a hash of the previous block and each block refers to its predecessor block for authentication. The transactions in a blockchain 
+are referred to by their hash. For authentication of a transaction, all nodes must receive same output by running the hash. If different output is received then the transaction 
+is considered invalid and is not verified.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
